@@ -29,7 +29,7 @@ A modern, full-stack task management application with AI-powered voice input cap
 #### 1. Clone the Repository
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/sujaltangde/voice-enabled-task-tracker.git
 cd voice-enabled-task-tracker
 ```
 
